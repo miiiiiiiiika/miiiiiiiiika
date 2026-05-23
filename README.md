@@ -1,15 +1,51 @@
-# 💫 About Me:
-Hey! My name is Mika, I'm a 16yo full stack developer from Germany. <br>I love playing Minecraft, GeoGuessr, osu! and many more!
+<h1 align="center">Hey 👋What's Up?</h1>
 
+###
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thisisawkwardicantdothis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thisisawkwardicantdothis&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thisisawkwardicantdothis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="left">💫 About Me:<br>Hey! My name is Mika, I'm a 16yo full stack developer from Germany. <br>I love playing Minecraft, GeoGuessr, osu! and many more!</p>
 
----
-[![](https://komarev.com/ghpvc/?username=thisisawkwardicantdothis&icon=10&color=3)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/1330957518368800862" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DC&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/okdowutyouwant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/whatdidyousayimlockedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=IG&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miiiiiiiiika/miiiiiiiiika/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miiiiiiiiika/miiiiiiiiika/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miiiiiiiiika/miiiiiiiiika/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:miiiiiiiiika?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
